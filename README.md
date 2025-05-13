@@ -11,7 +11,6 @@ This Flutter application fetches and displays video reels from a remote API with
 - 📦 Clean architecture (Presentation, Domain, Data layers)
 - 🧠 BLoC for state management
 - 🔌 Dependency injection using `get_it`
-- 🧠 Offline support with `shared_preferences`
 - ✅ Robust error handling
 
 ---
@@ -30,7 +29,8 @@ lib/
 ├── di/                   # Dependency injection
 └── main.dart             # App entry point
 
-📲 Getting Started
+
+
 ✅ Prerequisites
 Flutter SDK (>=3.10.0)
 
